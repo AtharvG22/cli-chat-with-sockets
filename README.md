@@ -63,12 +63,5 @@ Each client needs to enter a username to join the chat. Multiple clients can be 
 
 Clients will be prompted to enter a username, and once connected, they can start sending messages that will be broadcast to all other connected clients.
 
-## Contributing
-Feel free to open issues or submit pull requests to improve this project.
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-This README file provides a clear overview of your CLI chat application, guiding users through installation, usage, and setup.
