@@ -1,7 +1,3 @@
-Here’s a properly formatted README file for your CLI chat application:
-
----
-
 # CLI Chat Application with Sockets
 
 This project is a simple **command-line interface (CLI) chat application** built using Python, socket programming, and threading. It allows multiple clients to connect to a server and communicate with each other in real-time. The server manages client connections, while clients send and receive messages via sockets.
